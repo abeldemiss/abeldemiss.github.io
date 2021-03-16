@@ -1,2 +1,2 @@
-# abeldemiss.github.io <- enter in browser
+# abeldemiss.github.io
 Personal Website. Full site coming soon.
